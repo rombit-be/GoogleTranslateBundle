@@ -1,5 +1,5 @@
 {
-    "name": "eko/googletranslatebundle",
+    "name": "rombit/googletranslatebundle",
     "type": "library",
     "description": "A Symfony bundle to deals with Google Translate API",
     "keywords": ["google", "translate", "bundle", "api", "detect", "language"],
